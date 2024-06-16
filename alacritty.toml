@@ -1,0 +1,16 @@
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_mocha.toml"
+]
+
+[font]
+normal = {family = "MesloLGS Nerd Font", style = "Regular" }
+
+size = 15
+
+[colors]
+transparent_background_colors = true
+
+[window]
+decorations = "None"
+opacity = 0.8
+
